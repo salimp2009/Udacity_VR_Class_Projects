@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{326704C1-0C9F-09AE-4287-6AEA674C2763}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Demos/Scripts/HelloVR/HelloVRManager.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" Line="28" Column="41" />
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/HelloVRManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="google_vr_for_unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleVR" expanded="True">
+                <Node name="Demos" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="HelloVR" expanded="True">
+                      <Node name="HelloVRManager.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.google__vr__for__unity PreferredExecutionTarget="5e1237f5-f268-44ca-bd24-555a43dcf82a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
