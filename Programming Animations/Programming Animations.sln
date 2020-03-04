@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Animations", "Programming Animations.csproj", "{41413AB9-6E90-870F-01C2-5A00C61FBD81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Animations.Editor", "Programming Animations.Editor.csproj", "{1EB8678A-07E0-C135-7CD1-7A591B98C7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41413AB9-6E90-870F-01C2-5A00C61FBD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41413AB9-6E90-870F-01C2-5A00C61FBD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41413AB9-6E90-870F-01C2-5A00C61FBD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41413AB9-6E90-870F-01C2-5A00C61FBD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB8678A-07E0-C135-7CD1-7A591B98C7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB8678A-07E0-C135-7CD1-7A591B98C7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB8678A-07E0-C135-7CD1-7A591B98C7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB8678A-07E0-C135-7CD1-7A591B98C7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

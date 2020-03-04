@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{41413AB9-6E90-870F-01C2-5A00C61FBD81}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UdacityVR/Scripts/Scene/RotationalLight.cs">
+    <Files>
+      <File FileName="Assets/UdacityVR/Scripts/Seagull/Seagull.cs" Line="54" Column="4" />
+      <File FileName="Assets/UdacityVR/Shaders/Island_Ocean.shader" />
+      <File FileName="Assets/UdacityVR/Shaders/CardboardDistortion.cginc" />
+      <File FileName="Assets/UdacityVR/Scripts/Scene/RotationalLight.cs" Line="15" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Programming Animations" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UdacityVR" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Procedural" expanded="True" />
+                  <Node name="Scene" expanded="True">
+                    <Node name="RotationalLight.cs" selected="True" />
+                  </Node>
+                  <Node name="Seagull" expanded="True" />
+                </Node>
+                <Node name="Shaders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Programming_220Animations PreferredExecutionTarget="5082c0f9-7619-4446-8a33-f2aee78982bf" />
+</Properties>
